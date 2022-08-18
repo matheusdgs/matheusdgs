@@ -1,4 +1,4 @@
-## Oi, meu nome é Matheus Dias, Estudante de TI, HTML5, CSS3 e Photoshop!
+## Oi, meu nome é Matheus Dias, Estudante de TI, HTML 5, CSS 3 e Photoshop!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
